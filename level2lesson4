@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>Home</title>
+  <meta name="Viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<style>
+  body {
+    background-image: url('Untitled.png');
+    background-repeat: repeat;
+    background-size: cover;
+}
+</style>
+   <body>
+     <nav>
+       <ul>
+         <li><a class="active" href="index.html">INTRO</a></li>
+         <li><a href="level2lesson1.html">LESSON 4</a></li>
+         <li><a href="level2lesson2.html">LESSON 5</a></li>
+         <li><a href="level2lesson3.html">LESSON 6</a></li>
+         <li><a href="level2lesson4.html">LESSON 7</a></li>
+         <li><a href="level3.html">LEVEL 3</a></li>
+       </ul>
+     </nav>
+   </body>
+   <h2 class="borderexample">Construction of Ceronec words</h2>
+   <p class="maintext">
